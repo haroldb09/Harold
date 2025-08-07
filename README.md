@@ -4,7 +4,7 @@ Hi! I'm a Systems Engineering student at the Universidad Nacional de Costa Rica,
 
 - Twitter: [@HaroldEnCodigo](https://x.com/HaroldEnCodigo)
 - LinkedIn: [linkedin.com/in/harold](https://linkedin.com/in/harold)
-- GitHub: [github.com/Harold](https://github.com/Harold)
+- GitHub: [github.com/Harold](https://github.com/haroldb09)
 - Email: harold.dev@email.com
 
 ---
