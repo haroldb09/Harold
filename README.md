@@ -1,4 +1,4 @@
-# Harold
+# Harold Bravo 
 
 Hi! I'm a Systems Engineering student at the Universidad Nacional de Costa Rica, passionate about artificial intelligence, backend programming and clean, efficient code. Reach me on:
 
