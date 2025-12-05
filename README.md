@@ -1,6 +1,6 @@
 # Harold
 
-Hi! I'm a Systems Engineering student at the Universidad Nacional de Costa Rica, passionate about artificial intelligence, cybersecurity and clean, efficient code. Reach me on:
+Hi! I'm a Systems Engineering student at the Universidad Nacional de Costa Rica, passionate about artificial intelligence, backend programming and clean, efficient code. Reach me on:
 
 - X(Twitter): [@HaroldBravoX](https://x.com/HaroldBravoX)
 - LinkedIn: [(https://www.linkedin.com/in/harold-bravo-naranjo)]
