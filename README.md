@@ -3,7 +3,7 @@
 Hi! I'm a Systems Engineering student at the Universidad Nacional de Costa Rica, passionate about artificial intelligence, cybersecurity and clean, efficient code. Reach me on:
 
 - X(Twitter): [@HaroldBravoX](https://x.com/HaroldBravoX)
-- LinkedIn: [linkedin.com/in/harold](https://linkedin.com/in/harold)
+- LinkedIn: [(https://www.linkedin.com/in/harold-bravo-naranjo)]
 - GitHub: [github.com/Harold](https://github.com/haroldb09)
 - Email: harold.dev@email.com
 
